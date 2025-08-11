@@ -5,6 +5,7 @@ Una simple aplicación web para sortear amigos secretos. Introduce los nombres d
 ![Badge en Revisión](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
+<h1 align=" center"> ##Índice </h1> 
 ## Índice
 - [Funcionalidades](#funcionalidades)
 - [Tecnologías Usadas](#tecnologías-usadas)
@@ -42,7 +43,5 @@ Una simple aplicación web para sortear amigos secretos. Introduce los nombres d
 
 ## Vista Previa
 
-![Captura de pantalla de la aplicación de Amigo Secreto](enlace-a-una-imagen-o-gif.gif)
+![Vista Previa](assets/Captura de pantalla.png)
 
-## Licencia
-Este proyecto está bajo la licencia MIT.
