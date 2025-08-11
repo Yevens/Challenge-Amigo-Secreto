@@ -10,8 +10,6 @@ Una simple aplicación web para sortear amigos secretos. Introduce los nombres d
 - [Tecnologías Usadas](#tecnologías-usadas)
 - [Cómo Usar](#cómo-usar)
 - [Vista Previa](#vista-previa)
-- [Créditos](#créditos)
-- [Licencia](#licencia)
 
 ## 🛠️ Funcionalidades
 - **Añadir nombres:** Los usuarios pueden agregar nombres de amigos a una lista.
@@ -36,8 +34,6 @@ Una simple aplicación web para sortear amigos secretos. Introduce los nombres d
     Si quieres hacer un nuevo sorteo, haz clic en "Nuevo Juego".
 
 ## Vista Previa
-<img width="758" height="640" alt="Captura de pantalla" src="https://github.com/user-attachments/assets/6f78dea5-326f-45a3-9167-824c2f4b6649" />
-
-![Vista Previa](assets/Captura de pantalla.png)
+<img width="500" height="500" alt="Captura de pantalla" src="https://github.com/user-attachments/assets/6f78dea5-326f-45a3-9167-824c2f4b6649" />
 
 
