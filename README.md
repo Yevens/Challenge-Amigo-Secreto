@@ -1,6 +1,9 @@
-# CHALLENGE AMIGO SECRETO
+<h1 align=" center"> CHALLENGE AMIGO SECRETO </h1> 
 
 Una simple aplicación web para sortear amigos secretos. Introduce los nombres de tus amigos, haz clic en sortear y ¡que comience la diversión!
+
+![Badge en Revisión](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 ## Índice
 - [Funcionalidades](#funcionalidades)
@@ -10,7 +13,7 @@ Una simple aplicación web para sortear amigos secretos. Introduce los nombres d
 - [Créditos](#créditos)
 - [Licencia](#licencia)
 
-## Funcionalidades
+## 🛠️ Funcionalidades
 - **Añadir nombres:** Los usuarios pueden agregar nombres de amigos a una lista.
 - **Validación:** El programa verifica que el campo de entrada no esté vacío antes de añadir un nombre.
 - **Sorteo aleatorio:** Un botón selecciona un nombre de la lista de forma aleatoria para determinar al amigo secreto.
